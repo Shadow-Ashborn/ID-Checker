@@ -1,7 +1,7 @@
 <?php 
 /*
 
-What Aare finding. Huh!  
+What are finding. Huh!  
 
 */
 
